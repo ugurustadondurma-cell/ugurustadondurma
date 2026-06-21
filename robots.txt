@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /gizlilik-politikasi.html
+Disallow: /kullanim-kosullari.html
+
+Sitemap: https://www.ugurustadondurma.com.tr/sitemap.xml
