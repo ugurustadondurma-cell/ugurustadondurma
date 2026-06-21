@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Ana Sayfa (En Yüksek Öncelik) -->
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/index.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Dondurma Çeşitleri (Ürün Sayfaları - Yüksek Öncelik) -->
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/sade.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/kakao.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/cilek.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/incir.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/oreo.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/kivi.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Hizmet Sayfası -->
+    <url>
+        <loc>https://www.ugurustadondurma.com.tr/toplu-siparis.html</loc>
+        <lastmod>2026-06-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
